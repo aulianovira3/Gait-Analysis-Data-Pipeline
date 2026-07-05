@@ -1,6 +1,6 @@
 # End-to-End Project: Gait Analysis Data Pipeline & Dashboard
 
-![Dashboard Preview](Assets/Dashboard.png) *(Note: Replace this path if your screenshot is named differently, or remove this line if not using an image)*
+![Dashboard Preview](Assets/Dashboard.png) 
 
 🔗 **[Link to Interactive Looker Studio Dashboard][https://datastudio.google.com/u/0/reporting/47751361-d6fc-4936-9f71-53a858f6d0e4/page/60g2F/edit]**
 
